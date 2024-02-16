@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9882a9-3fba-4b74-ab6d-093231dccc1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Examples/example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual/individ1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual/individ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual/individ3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Individual/individ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Individual/individ1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Individual/individ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Individual/individ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Individual/individ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Individual/individ3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2cQU06DDH5sFuwQS4rdp0allw3N" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,25 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.example1.executor": "Run",
-    "Python.example2.executor": "Run",
-    "Python.example3.executor": "Run",
-    "Python.individ1.executor": "Run",
-    "Python.individ2.executor": "Run",
-    "Python.individ3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Develop",
-    "last_opened_file_path": "/home/code_ra1der/git/Python_LW6",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.example1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.individ1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.individ2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.individ3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/code_ra1der/git/Python_LW7&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1708043070081</updated>
       <workItem from="1708043071122" duration="4343000" />
+      <workItem from="1708073844956" duration="181000" />
+      <workItem from="1708078889855" duration="47000" />
     </task>
     <servers />
   </component>
